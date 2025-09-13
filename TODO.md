@@ -1,0 +1,5 @@
+- [x] Remove dark mode from tailwind.config.js
+- [x] Remove theme state and logic from App.jsx
+- [x] Delete ThemeToggle component
+- [x] Revert App.jsx classes to original dark theme
+- [x] Revert component classes to original dark theme

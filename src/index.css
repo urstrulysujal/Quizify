@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    font-family: 'Inter', system-ui, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+}
